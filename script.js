@@ -5,7 +5,7 @@ const quoteText = document.querySelector(".quote"),
   copyBtn = document.querySelector(".copy"),
   twitterBtn = document.querySelector(".twitter");
 
-//randomQuote function modification 3
+//randomQuote function modification changes from git desktop.
 function randomQuote() {
   quoteBtn.classList.add("loading");
   quoteBtn.innerText = "Loding Quote...";
